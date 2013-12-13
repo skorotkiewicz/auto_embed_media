@@ -1,6 +1,6 @@
 <?php
 
 $lang_plugin_admin = array(
-	'Explanation' => 'Automatically converts URL such as Twitter, Instagram, YouTube, Vimeo… Links into Embed Media.',
+	'Explanation' => 'Automatycznie konwertuje adres URL takich stron jak  Twitter, Instagram, YouTube, Vimeo… tak by osadzić treści bezpośrednio na stronie.',
 );
 ?> 
